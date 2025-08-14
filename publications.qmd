@@ -1,34 +1,71 @@
 ---
 title: "Publications"
-description-meta: "Information, pdfs, and social metrics of papers"
 #page-layout: full
 #back-to-top-navigation: true
 title-block-banner: false
-css: custom.css
+#css: custom.css
 ---
 
+Notes: * indicates graduate student co-author
 
-<!--Include academic icons or buttons-->
-{{< include /files/includes/_academic.qmd >}}
+## Publications
 
-Notes: \* corresponding author; <sup>GS</sup> graduate student advisee; <sup>VS</sup> visiting scholar; ![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper"){width=20 fig-alt="Highly cited paper"} ESI [Highly Cited Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-highly-cited-papers.html) (top 1%); ![](https://drganghe.github.io/files/images/hot-paper-badge.png "ESI Hot Paper"){width=20 fig-alt="Hot paper"} ESI [Hot Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-hot-papers.html) (top 0.1%) 
+**Myers, C. D.** (2025). *Politicizing the Pandemic? Partisan Framing of the Early COVID-19 Pandemic was Infrequent, Particularly in Local Newspapers*. Political Communication. [https://doi.org/10.1080/10584609.2024.2372593](https://doi.org/10.1080/10584609.2024.2372593)  
+**Brief Abstract:** Analyzes early COVID-19 news coverage in U.S. local and national newspapers, finding that explicit partisan framing was rare, especially locally. Suggests that local media’s relative avoidance of partisan cues may have helped shield audiences from polarization in the pandemic’s early stages.
 
-Total citations as of January 2025:
+**Myers, C. D., & Hvidsten, T.** (Forthcoming). *Who is the Party? The Effect of Counter-Stereotypical Partisan Exemplars on Inter-Party Stereotypes and Affect*. Political Behavior. [https://doi.org/10.1007/s11109-024-09991-1](https://doi.org/10.1007/s11109-024-09991-1)  
+**Brief Abstract:** Experimental evidence shows that exposure to counter-stereotypical partisan figures—politicians who violate common party stereotypes—can reduce negative interparty attitudes and alter perceptions of the opposing party’s traits, highlighting the potential of individual exemplars to reshape partisan stereotypes.
 
-- [Web of Science](https://www.webofscience.com): 100,000 (h-index = 100)   
-- [Google Scholar](https://scholar.google.com/citations?user=qc6CJjYAAAAJ&hl=en): 179,000 (h-index = 127, i10-index = 377) 
+**Busby, E., Howat, A., & Myers, C. D.** (2024). *Changing Partisan Stereotypes in the Trump Era*. Political Science Research and Methods. [https://doi.org/10.1017/psrm.2023.30](https://doi.org/10.1017/psrm.2023.30)  
+**Brief Abstract:** Examines shifts in partisan stereotypes during the Trump presidency, revealing significant changes in how Americans view Democrats and Republicans. Finds that political events and leadership styles can rapidly reshape group images, influencing both affective polarization and interparty understanding.
 
-## Selected Work
+**Myers, C. D., Zhirkov, K., & Trujillo, K. L.** (2024). *Who is 'On Welfare'? Validating the Use of Conjoint Experiments to Measure Stereotype Content*. Political Behavior. [https://doi.org/10.1007/s11109-022-09815-0](https://doi.org/10.1007/s11109-022-09815-0)  
+**Brief Abstract:** Validates conjoint survey experiments as a method for measuring social stereotypes, focusing on perceptions of welfare recipients. Demonstrates the approach’s reliability and ability to disentangle multiple identity cues in shaping stereotypes, with implications for studying complex social attitudes.
 
-Einstein, A., Podolsky, B., & Rosen, N. (1935). [Can quantum-mechanical description of physical reality be considered complete?](posts/paper-title/index.qmd). *Physical review*, 47(10), 777. \[[pdf](https://scholar.google.com/)\] \[[code and data](https://doi.org)\] ![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper"){width=20 fig-alt="Highly cited paper"} ![](https://drganghe.github.io/files/images/hot-paper-badge.png "ESI Hot Paper"){width=20 fig-alt="Hot paper"} <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRev.47.777" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1103/PhysRev.47.777" data-hide-no-mentions="true" class="altmetric-embed"></div>     
+**Zhirkov, K., Trujillo, K. L., & Myers, C. D.** (2024). *Measuring Support for Welfare Policies: Implications for the Effects of Race and Deservingness Stereotypes*. Journal of Experimental Political Science. [https://doi.org/10.1017/XPS.2023.31](https://doi.org/10.1017/XPS.2023.31)  
+**Brief Abstract:** Investigates how racial and deservingness stereotypes influence support for welfare policies. Using survey experiments, shows that perceptions of recipients’ deservingness play a key role, and that racial cues interact with these judgments to shape welfare policy attitudes.
 
+**Myers, C. D.** (2023). *Issues, Groups, Or Idiots? Comparing Theories of Partisan Stereotypes*. Public Opinion Quarterly. [https://doi.org/10.1093/poq/nfad038](https://doi.org/10.1093/poq/nfad038)  
+**Brief Abstract:** Tests competing theories of partisan stereotypes—whether they are issue-based, group-based, or rooted in perceived competence. Finds evidence for all three to varying degrees, offering a more nuanced account of how citizens conceptualize and evaluate political parties.
 
-<center><hr style="width:50%"></center>
+**Myers, C. D.** (2022). *The Dynamics of Social Identity: Evidence from Deliberating Groups*. Political Psychology. [https://doi.org/10.1111/pops.12749](https://doi.org/10.1111/pops.12749)  
+**Brief Abstract:** Uses deliberative forums to explore how social identities shift in group discussion. Shows that deliberation can both strengthen and weaken identity salience, depending on group composition and topic, with implications for polarization and democratic engagement.
 
-Einstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. *American Journal of Physics*, 33(5), 367. [[pdf](https://icg.isy.liu.se/en/phd-courses/quantum_foundations/references/Einstein1905b.pdf)] <span class="__dimensions_badge_embed__" data-doi="10.1038/s41560-023-01304-w" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1038/s41560-023-01304-w" data-hide-no-mentions="true" class="altmetric-embed"></div>
+**Myers, C. D.** (2021). *No Effect of Partisan Framing on Opinions about the COVID-19 Pandemic*. Journal of Elections, Public Opinion, and Parties. [https://doi.org/10.1080/17457289.2021.1924747](https://doi.org/10.1080/17457289.2021.1924747)  
+**Brief Abstract:** Experimental tests during the pandemic’s early months show that partisan framing—linking COVID-19 to partisan actors—had no measurable effect on public opinion, suggesting limits to framing effects under certain crisis conditions.
 
+**Myers, C. D., Gordon, H. G., Goold, S. D., Kim, H. M., & Rowe, Z.** (2020). *Does Group Deliberation Mobilize? The Effect of Public Deliberation on Willingness to Participate in Politics*. Political Behavior. [https://doi.org/10.1007/s11109-018-9507-z](https://doi.org/10.1007/s11109-018-9507-z)  
+**Brief Abstract:** Analyzes whether participating in structured public deliberation increases political engagement. Finds modest but significant boosts in willingness to participate, highlighting deliberation’s potential as a civic mobilization tool.
 
+**Myers, C. D., Kieffer, E. C., Fendrick, A. M., Kim, H. M., Calhoun, K., Szymecko, L., Salman, C., LaHann, L., Ledon, C., Danis, M., Rowe, Z., & Goold, S. D.** (2020). *How Would Low-Income Communities Prioritize Medicaid Spending?*. Journal of Health Politics, Policy, and Law. [https://doi.org/10.1215/03616878-8161024](https://doi.org/10.1215/03616878-8161024)  
+**Brief Abstract:** Reports results from community deliberations with low-income residents on Medicaid priorities. Participants emphasized preventive care and broad access, offering policy insights for aligning Medicaid spending with community values.
 
-<!--Include social share buttons-->
+**Goold, S. D., Danis, M., Abelson, J., Gornick, M., Szymecko, L., Myers, C. D., Rowe, Z., Kim, H. M., & Salman, C.** (2019). *Evaluating Community Deliberations about Health Research Priorities*. Health Expectations. [https://doi.org/10.1111/hex.12931](https://doi.org/10.1111/hex.12931)  
+**Brief Abstract:** Assesses the quality and outcomes of community deliberations on health research priorities. Finds that structured dialogue increases participants’ understanding and produces actionable, community-driven research agendas.
 
-{{< include /files/includes/_socialshare.qmd >}}
+**Myers, C. D.** (2018). *Political Deliberation, Interest Conflict, and the Common Knowledge Effect*. Journal of Public Deliberation. [https://doi.org/10.16997/jdd.296](https://doi.org/10.16997/jdd.296)  
+**Brief Abstract:** Examines how interest conflicts in deliberation shape the common knowledge effect, where widely known information dominates discussion. Shows that conflict can either exacerbate or reduce this bias, depending on group dynamics.
+
+**Goold, S. D., Myers, C. D., Danis, M., Abelson, J., Barnett, S., Calhoun, K., Campbell, E. G., Lahahnn, L., Hammad, A., Pérez Rosenbaum, R., Kim, H. M., Salman, C., Szymecko, L., & Rowe, Z. E.** (2018). *Members of Minority and Underserved Communities Set Priorities for Health Research*. Milbank Quarterly. [https://doi.org/10.1111/1468-0009.12354](https://doi.org/10.1111/1468-0009.12354)  
+**Brief Abstract:** Documents a national effort engaging minority and underserved communities in setting health research priorities, highlighting community perspectives often overlooked in mainstream policy debates.
+
+**Myers, C. D.** (2017). *Interests, Information, and Minority Influence in Deliberation*. Journal of Politics. [https://doi.org/10.1086/690304](https://doi.org/10.1086/690304)  
+**Brief Abstract:** Investigates conditions under which minority viewpoints can influence group deliberations, finding that informational advantages can offset numerical disadvantage in shaping group decisions.
+
+**Myers, C. D., Ritter, T., & Rockaway, A.** (2017). *Community Deliberation to Build Local Capacity for Climate Change Adaptation: The Rural Climate Dialogues Program*. In W. Leal & J. Keenan (Eds.), Climate Change Adaptation in North America. Springer. [https://doi.org/10.1007/978-3-319-53742-9_2](https://doi.org/10.1007/978-3-319-53742-9_2)  
+**Brief Abstract:** Describes a community deliberation initiative addressing rural climate change adaptation, demonstrating how structured dialogue builds local capacity and actionable strategies.
+
+**Goold, S. D., Myers, C. D., Szymecko, L., Collins, C., Martinez, S., Ledón, C., Campbell, T. R., Danis, M., Cargill, S., Kim, H. M., & Rowe, Z.** (2017). *Priorities for Patient Centered Outcomes Research: The Views of Minority and Underserved Communities*. Health Service Research. [https://doi.org/10.1111/1475-6773.12505](https://doi.org/10.1111/1475-6773.12505)  
+**Brief Abstract:** Presents findings from deliberations with underserved communities on patient-centered outcomes research priorities, identifying key health issues and desired research approaches.
+
+**Myers, C. D.** (2016). *Participation and Punishment*. Journal of Theoretical Politics. [https://doi.org/10.1177/0951629815586882](https://doi.org/10.1177/0951629815586882)  
+**Brief Abstract:** Develops a theoretical model linking political participation to the imposition of sanctions in collective decision-making, exploring implications for cooperation and deterrence.
+
+**Myers, C. D., & Tingley, D.** (2016). *The Influence of Emotion on Trust*. Political Analysis. [https://doi.org/10.1093/pan/mpw026](https://doi.org/10.1093/pan/mpw026)  
+**Brief Abstract:** Uses experiments to test how emotional states affect interpersonal trust, finding that emotions like anger and gratitude significantly alter trust decisions.
+
+**Glick, D., & Myers, C. D.** (2015). *Learning from Others: An Experimental Test of Brownian Motion Uncertainty Models*. Journal of Theoretical Politics. [https://doi.org/10.1177/0951629814559723](https://doi.org/10.1177/0951629814559723)  
+**Brief Abstract:** Tests mathematical models of uncertainty through experimental games, showing how individuals adjust beliefs based on observed actions of others under uncertainty.
+
+**Myers, C. D., & Mendelberg, T.** (2013). *Political Deliberation*. In L. Huddy, D. Sears, & J. Levy (Eds.), Oxford Handbook of Political Psychology. Oxford University Press. [https://doi.org/10.1093/oxfordhb/9780199760107.013.0022](https://doi.org/10.1093/oxfordhb/9780199760107.013.0022)  
+**Brief Abstract:** Reviews the literature on political deliberation, summarizing key findings on its effects, the conditions under which it thrives, and its role in democratic theory and practice.

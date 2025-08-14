@@ -1,67 +1,28 @@
 ---
 title: "Teaching"
-subtitle: "I teach."
 title-block-banner: false
 ---
 
+# Current Courses
 
-## Class 1
+### POL 1001: American Democracy in a Changing World
 
-::: {.grid}
+[Fall 2025](/files/POL 1001 Syllabus Spring 2024.pdf){target="_blank"}
 
-::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder1.jpg)
+Why doesn't Congress seem to work? Why do we let nine unelected judges decide which laws are unconstitutional and which ones are not? How could anyone have voted for <insert the Presidential candidate you didn't vote for here>? This course will introduce students to politics in the United States, addressing these and many more questions about how the American political system works. 
 
-:::
+### Pol 3766: The Political Psychology of Mass Behavior
 
-::: {.g-col-12 .g-col-md-10}
+[Fall 2025](/files/POL 3766 Syllabus Spring 2023){target="_blank"}
 
-[Fall 2024](https://www.google.com), &nbsp; [Fall 2023](https://www.google.com)
+How do people develop their political opinions? What makes people vote the way that they do? Why do some people love, and others loathe, Donald Trump? Understanding how ordinary citizens engage with the political sphere is essential to understanding how politics work. This course applies a psychological approach to understanding how average people – members of the mass public – think about politics, make political decisions, and decide how (and whether) to take political actions.
 
-Class 1 introduction.
+# Past Courses
 
-:::
+## Undergraduate Courses
 
-:::
+Coming Soon!
 
+## Graduate Courses
 
-## Class 2
-
-::: {.grid}
-
-::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder2.JPG)
-
-:::
-
-::: {.g-col-12 .g-col-md-10}
-
-[Spring 2025](https://www.google.com), &nbsp; [Fall 2023](https://www.google.com)
-
-Class 2 introduction.
-
-:::
-
-:::
-
-
-## Class 3
-
-::: {.grid}
-
-::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder3.JPG)
-
-:::
-
-::: {.g-col-12 .g-col-md-10}
-
-[Spring 2025](https://www.google.com), &nbsp; [Spring 2024](https://www.google.com)
-
-Class 3 introduction. 
-
-:::
-
-:::
-
-
+Coming Soon!

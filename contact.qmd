@@ -1,24 +1,8 @@
 ---
 title: "Contact"
-description-meta: "Reach out to me with questions and comments"
 title-block-banner: false
 ---
 
-<center>
+[E-mail](mailto:cdmyers@umn.edu){target="_blank"}
 
-**Quarto Academic**
-
-School
-
-College
-
-University
-
-Address: 
-
-Phone: 
-
-E-mail: 
-
-
-</center>
+[Schedule a meeting](https://calendly.com/cdmyers/){target="_blank"}
