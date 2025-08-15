@@ -46,7 +46,7 @@ about:
 #    page-size: 3 #set same as max-times to remove the page number setting
 #    fields: [image, date, title, subtitle]
 #    max-description-length: 75
-#    sort: 
+#    sort:
 #      - "date desc"
 #      - "title asc"
 ---
