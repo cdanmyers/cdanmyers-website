@@ -58,6 +58,6 @@ Welcome! I'm C. Daniel Myers, an Associate Professor of Political Science at the
 * My work on partisan stereotypes investigates who we imagine "Republicans" and "Democrats" to be, and what happens when those assumptions are challenged. 
 * My work on local news examines the differences in how local news and national news cover politics, and the effects that these differences have on how we view politics. 
 
-My earlier research explored the effects of new political institutions inspired by deliberative theories of democracy. Methodologically, I am interested in how to draw causal inference in political science research, especially using experiments.
+My earlier research explored the effects of new political institutions inspired by deliberative theories of democracy. Methodologically, I am interested in how to draw causal inferences in political science research, especially using experiments.
 
 :::
