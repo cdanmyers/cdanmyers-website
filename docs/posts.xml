@@ -6,30 +6,30 @@
       version="2.0">
 <channel>
 <title>C. Daniel Myers, Political Scientist</title>
-<link>https://drganghe.github.io/quarto-academic-website-template/posts.html</link>
-<atom:link href="https://drganghe.github.io/quarto-academic-website-template/posts.xml" rel="self" type="application/rss+xml"/>
+<link>https://cdanmyers.com/posts.html</link>
+<atom:link href="https://cdanmyers.com/posts.xml" rel="self" type="application/rss+xml"/>
 <description>Academic website of C. Daniel Myers, Associate Professor of Political Science, University of Minnesota. Political Communication, Political Psychology, and Experimental Methods.</description>
-<generator>quarto-1.6.42</generator>
+<generator>quarto-1.9.36</generator>
 <lastBuildDate>Tue, 15 Oct 2024 05:00:00 GMT</lastBuildDate>
 <item>
   <title>Quarto Academic Website Examples and Tips</title>
-  <link>https://drganghe.github.io/quarto-academic-website-template/</link>
+  <link>https://cdanmyers.com/</link>
   <description>Examples and tips for Quarto Academic Website</description>
   <category>news</category>
-  <guid>https://drganghe.github.io/quarto-academic-website-template/</guid>
+  <guid>https://cdanmyers.com/</guid>
   <pubDate>Tue, 15 Oct 2024 05:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/quarto-academic-website-template/files/images/placeholder1.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://cdanmyers.com/files/images/placeholder1.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Event item</title>
   <dc:creator>Event </dc:creator>
-  <link>https://drganghe.github.io/quarto-academic-website-template/posts/event-title/</link>
+  <link>https://cdanmyers.com/posts/event-title/</link>
   <description><![CDATA[ 
 
 
 
 
-<p><a href="https://drganghe.github.io/quarto-academic-website-template/"><img src="https://drganghe.github.io/quarto-academic-website-template/files/images/placeholder2.JPG" class="img-fluid" style="width:90.0%"></a></p>
+<p><a href="https://drganghe.github.io/quarto-academic-website-template/"><img src="https://cdanmyers.com/files/images/placeholder2.JPG" class="img-fluid" style="width:90.0%"></a></p>
 <!--Include social share buttons-->
 <!-- 
 AddToAny check more: https://www.addtoany.com/buttons/for/website 
@@ -46,14 +46,14 @@ https://quarto.org/docs/authoring/includes.html
  ]]></description>
   <category>event</category>
   <category>presentation</category>
-  <guid>https://drganghe.github.io/quarto-academic-website-template/posts/event-title/</guid>
+  <guid>https://cdanmyers.com/posts/event-title/</guid>
   <pubDate>Tue, 03 Sep 2024 05:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/quarto-academic-website-template/files/images/placeholder2.JPG" medium="image"/>
+  <media:content url="https://cdanmyers.com/files/images/placeholder2.JPG" medium="image"/>
 </item>
 <item>
   <title>News item</title>
   <dc:creator>News </dc:creator>
-  <link>https://drganghe.github.io/quarto-academic-website-template/posts/news-title/</link>
+  <link>https://cdanmyers.com/posts/news-title/</link>
   <description><![CDATA[ 
 
 
@@ -78,16 +78,16 @@ https://quarto.org/docs/authoring/includes.html
 
  ]]></description>
   <category>news</category>
-  <guid>https://drganghe.github.io/quarto-academic-website-template/posts/news-title/</guid>
+  <guid>https://cdanmyers.com/posts/news-title/</guid>
   <pubDate>Mon, 24 Jun 2024 05:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/quarto-academic-website-template/files/images/placeholder3.JPG" medium="image"/>
+  <media:content url="https://cdanmyers.com/files/images/placeholder3.JPG" medium="image"/>
 </item>
 <item>
   <title>Can quantum-mechanical description of physical reality be considered complete?</title>
   <dc:creator>Albert Einstein</dc:creator>
   <dc:creator>Boris Podolsky</dc:creator>
   <dc:creator>Nathan Rosen</dc:creator>
-  <link>https://drganghe.github.io/quarto-academic-website-template/posts/paper-title/</link>
+  <link>https://cdanmyers.com/posts/paper-title/</link>
   <description><![CDATA[ 
 
 
@@ -140,9 +140,9 @@ Quantum-Mechanical Description of Physical Reality Be Considered
 Complete?”</span> <em>Physical Review</em> 47 (7938): 777–80. <a href="https://doi.org/10.1103/PhysRev.47.777">https://doi.org/10.1103/PhysRev.47.777</a>.
 </div></div></section></div> ]]></description>
   <category>paper</category>
-  <guid>https://drganghe.github.io/quarto-academic-website-template/posts/paper-title/</guid>
+  <guid>https://cdanmyers.com/posts/paper-title/</guid>
   <pubDate>Wed, 15 May 1935 05:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/quarto-academic-website-template/posts/paper-title/featured.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://cdanmyers.com/posts/paper-title/featured.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>

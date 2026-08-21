@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - CNAME
 
 # Meta
 description-meta: "Academic website of C. Daniel Myers, Associate Professor of Political Science, University of Minnesota. Political Communication, Political Psychology, and Experimental Methods."
@@ -61,15 +63,15 @@ website:
 
   draft-mode: unlinked
   
-  repo-url: https://github.com/drganghe/quarto-academic-website-template
+  repo-url: https://github.com/cdanmyers/cdanmyers-website
 #  repo-actions: [edit, issue, source]
-  
+
   open-graph: true
-  
-  twitter-card: true 
-#  card-style: summary      
-  
-  site-url: "https://drganghe.github.io/quarto-academic-website-template"
+
+  twitter-card: true
+#  card-style: summary
+
+  site-url: "https://cdanmyers.com"
   
   google-analytics:
     tracking-id: ""  # Please delete or replace with your own tracking ID
