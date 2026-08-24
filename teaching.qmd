@@ -5,23 +5,27 @@ title-block-banner: false
 
 # Current Courses
 
-### POL 1001: American Democracy in a Changing World
+### POL 3085: Quantitative Methods for Political Science
 
-[Fall 2025](/files/POL 1001 Syllabus Spring 2024.pdf){target="_blank"}
+[Fall 2026](/files/POL 3085 Syllabus Spring 2026.pdf){target="_blank"} (syllabus shown is the most recent version on file; an updated Fall 2026 syllabus will be posted when available)
 
-Why doesn't Congress seem to work? Why do we let nine unelected judges decide which laws are unconstitutional and which ones are not? How could anyone have voted for <insert the Presidential candidate you didn't vote for here>? This course will introduce students to politics in the United States, addressing these and many more questions about how the American political system works. 
-
-### Pol 3766: The Political Psychology of Mass Behavior
-
-[Fall 2025](/files/POL 3766 Syllabus Spring 2023){target="_blank"}
-
-How do people develop their political opinions? What makes people vote the way that they do? Why do some people love, and others loathe, Donald Trump? Understanding how ordinary citizens engage with the political sphere is essential to understanding how politics work. This course applies a psychological approach to understanding how average people – members of the mass public – think about politics, make political decisions, and decide how (and whether) to take political actions.
+This course introduces students to quantitative research methods in political science. Students will learn how political scientists develop theories, formulate testable hypotheses, collect and analyze data, and draw inferences about the political world. The course covers both experimental and observational research designs, with hands-on experience using the R statistical programming language.
 
 # Past Courses
 
 ## Undergraduate Courses
 
-Coming Soon!
+### POL 1001: American Democracy in a Changing World
+
+[Fall 2025](/files/POL 1001 Syllabus Spring 2024.pdf){target="_blank"}
+
+Why doesn't Congress seem to work? Why do we let nine unelected judges decide which laws are unconstitutional and which ones are not? How could anyone have voted for <insert the Presidential candidate you didn't vote for here>? This course will introduce students to politics in the United States, addressing these and many more questions about how the American political system works.
+
+### POL 3766: The Political Psychology of Mass Behavior
+
+[Fall 2025](/files/POL 3766 Syllabus Spring 2023.pdf){target="_blank"}
+
+How do people develop their political opinions? What makes people vote the way that they do? Why do some people love, and others loathe, Donald Trump? Understanding how ordinary citizens engage with the political sphere is essential to understanding how politics work. This course applies a psychological approach to understanding how average people – members of the mass public – think about politics, make political decisions, and decide how (and whether) to take political actions.
 
 ## Graduate Courses
 
