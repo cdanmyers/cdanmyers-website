@@ -20,11 +20,11 @@ Notes: * indicates graduate student co-author
 
 ## Publications
 
-**Myers, C. D.** (2025). *Politicizing the Pandemic? Partisan Framing of the Early COVID-19 Pandemic was Infrequent, Particularly in Local Newspapers*. Political Communication. [https://doi.org/10.1080/10584609.2024.2372593](https://doi.org/10.1080/10584609.2024.2372593) | [PDF](<files/All Publications/Myers - Politicizing the Pandemic Partisan Framing of the.pdf>)
+**Myers, C. D.** (2025). *Politicizing the Pandemic? Partisan Framing of the Early COVID-19 Pandemic was Infrequent, Particularly in Local Newspapers*. Political Communication. [https://doi.org/10.1080/10584609.2024.2372593](https://doi.org/10.1080/10584609.2024.2372593) | [PDF](<files/All Publications/Myers - 2025 - Politicizing the Pandemic Partisan Framing of the.pdf>)
 
 Was partisan news coverage responsible for polarizing Americans during COVID-19's early months? This study analyzes local and national newspaper coverage, finding explicit partisan framing was rare overall but more common in national outlets. The results suggest that the decline of local news could contribute to greater politicization of crises.
 
-**Myers, C. D., & Hvidsten, T.\*** (Forthcoming). *Who is the Party? The Effect of Counter-Stereotypical Partisan Exemplars on Inter-Party Stereotypes and Affect*. Political Behavior. [https://doi.org/10.1007/s11109-024-09991-1](https://doi.org/10.1007/s11109-024-09991-1) | [PDF](<files/All Publications/Myers and Hvidsten - 2024 - Who is the Party The Effect of Counter-Stereotypi.pdf>)
+**Myers, C. D., & Hvidsten, T.\*** (2025). *Who is the Party? The Effect of Counter-Stereotypical Partisan Exemplars on Inter-Party Stereotypes and Affect*. Political Behavior, 47(3), 1317–1338. [https://doi.org/10.1007/s11109-024-09991-1](https://doi.org/10.1007/s11109-024-09991-1) | [PDF](<files/All Publications/Myers and Hvidsten - 2024 - Who is the Party The Effect of Counter-Stereotypi.pdf>)
 
 Can individual politicians reshape how we see opposing parties? This experiment shows that exposure to counter-stereotypical partisan figures—politicians who defy their party's usual image—reduces hostility and alters perceptions of the other party's traits, suggesting that exemplars can soften partisan divides.
 
@@ -36,7 +36,7 @@ How did Donald Trump's presidency reshape partisan stereotypes? This study finds
 
 Can conjoint survey experiments accurately measure stereotypes? This study validates their use in studying perceptions of welfare recipients, showing that the method reliably captures multiple identity cues at once. It further finds that perceptions of deserving dominate stereotypes of welfare recipients, and also find evidence against recent claims that welfare has become assocated with immigrants. The findings offer a powerful approach for examining complex social attitudes.
 
-**Zhirkov, K., Trujillo, K. L., & Myers, C. D.** (2024). *Measuring Support for Welfare Policies: Implications for the Effects of Race and Deservingness Stereotypes*. Journal of Experimental Political Science. [https://doi.org/10.1017/XPS.2023.31](https://doi.org/10.1017/XPS.2023.31) | [PDF](<files/All Publications/Zhirkov et al. - 2023 - Measuring Support for Welfare Policies Implicatio.pdf>)
+**Zhirkov, K., Trujillo, K. L., & Myers, C. D.** (2025). *Measuring Support for Welfare Policies: Implications for the Effects of Race and Deservingness Stereotypes*. Journal of Experimental Political Science, 12(1), 126–133. [https://doi.org/10.1017/XPS.2023.31](https://doi.org/10.1017/XPS.2023.31) | [PDF](<files/All Publications/Zhirkov et al. - 2025 - Measuring Support for Welfare Policies Implicatio.pdf>)
 
 Do racial and deservingness stereotypes influence welfare policy support? Using survey experiments, this study finds that perceptions of whether recipients are "deserving" strongly shape attitudes, and that racial cues interact with these judgments to influence public opinion.
 
@@ -44,7 +44,7 @@ Do racial and deservingness stereotypes influence welfare policy support? Using 
 
 What drives partisan stereotypes—policy issues, social group associations, or competence judgments? This paper tests all three explanations using a conjoint experiment. Contrary to recent work that has emphasize the group-based nature of partisan stereotypes, I find that issue stances are the most central element of partisan steroetypes.
 
-**Myers, C. D.** (2022). *The Dynamics of Social Identity: Evidence from Deliberating Groups*. Political Psychology. [https://doi.org/10.1111/pops.12749](https://doi.org/10.1111/pops.12749) | [PDF](<files/All Publications/Myers - The Dynamics of Social Identity Evidence from Del.pdf>)
+**Myers, C. D.** (2022). *The Dynamics of Social Identity: Evidence from Deliberating Groups*. Political Psychology. [https://doi.org/10.1111/pops.12749](https://doi.org/10.1111/pops.12749) | [PDF](<files/All Publications/Myers - 2022 - The Dynamics of Social Identity Evidence from Del.pdf>)
 
 How does group discussion change the strength of social identities? Studying deliberative forums, this paper shows that deliberation succeeds because to creates a new group identity, identification with the deliberating groups itself, reducing the salience of other identities such as partisanship. I argue that this has ambivalent implications for the normative value of small group deliberation.
 
@@ -88,7 +88,7 @@ What health research matters most to underserved communities? Deliberations iden
 
 How do participation and punishment interact in collective decisions? This theoretical model links political engagement to the use of sanctions, with implications for cooperation and deterrence.
 
-**Myers, C. D., & Tingley, D.** (2016). *The Influence of Emotion on Trust*. Political Analysis. [https://doi.org/10.1093/pan/mpw026](https://doi.org/10.1093/pan/mpw026) | [PDF](<files/All Publications/Myers and Tingley - The Influence of Emotion on Trust.pdf>)
+**Myers, C. D., & Tingley, D.** (2016). *The Influence of Emotion on Trust*. Political Analysis. [https://doi.org/10.1093/pan/mpw026](https://doi.org/10.1093/pan/mpw026) | [PDF](<files/All Publications/Myers and Tingley - 2016 - The Influence of Emotion on Trust.pdf>)
 
 Do emotions shape trust between individuals? And how can we measure the causal effect of emotions in experiments? This paper argues that causal mediation analysis is necessary for measuring the effect of discrete emotions when these emotions are induced using common experimental manipulations. Using this method, we show that feelings like anger and gratitude significantly change willingness to trust others.
 

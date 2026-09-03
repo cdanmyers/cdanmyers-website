@@ -5,4 +5,10 @@ title-block-banner: false
 
 [E-mail](mailto:cdmyers@umn.edu){target="_blank"}
 
-[Schedule a meeting](https://calendly.com/cdmyers/){target="_blank"}
+[Schedule a meeting](https://calendly.com/cdmyers){target="_blank"}
+
+[Google Scholar](https://scholar.google.com/citations?user=dOWPOCsAAAAJ&hl=en){target="_blank"}
+
+[Open Science Framework](https://osf.io/txqah/){target="_blank"}
+
+[GitHub](https://github.com/cdanmyers){target="_blank"}

@@ -18,9 +18,9 @@ about:
     - text: "{{< ai google-scholar >}} Google Scholar"
       href: https://scholar.google.com/citations?user=dOWPOCsAAAAJ&hl=en
       target: _blank
-#    - text: "{{< ai osf >}} Open Science Framework"
-#      href: TODO-add-your-OSF-profile-url
-#      target: _blank
+    - text: "{{< ai osf >}} Open Science Framework"
+      href: https://osf.io/txqah/
+      target: _blank
     - icon: github
       text: Github
       href: https://github.com/cdanmyers

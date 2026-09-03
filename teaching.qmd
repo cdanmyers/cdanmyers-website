@@ -7,7 +7,7 @@ title-block-banner: false
 
 ### POL 3085: Quantitative Methods for Political Science
 
-[Fall 2026](/files/POL 3085 Syllabus Spring 2026.pdf){target="_blank"} (syllabus shown is the most recent version on file; an updated Fall 2026 syllabus will be posted when available)
+[Fall 2026](/files/POL 3085 Syllabus Fall 2026.pdf){target="_blank"} (draft syllabus; subject to change)
 
 This course introduces students to quantitative research methods in political science. Students will learn how political scientists develop theories, formulate testable hypotheses, collect and analyze data, and draw inferences about the political world. The course covers both experimental and observational research designs, with hands-on experience using the R statistical programming language.
 
